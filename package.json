@@ -41,6 +41,6 @@
     "jest": "22.1.4",
     "react-test-renderer": "16.2.0",
     "react": "16.2.0",
-    "react-native": "^0.51.0"
+    "react-native": "^0.60.5"
   }
 }
